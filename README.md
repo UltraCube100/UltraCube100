@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 #### GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UltraCube100&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
