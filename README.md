@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-#### GitHub Stats
+## My GitHub Stats
 
 ![UltrCube100's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltraCube100&count_private=true&theme=onedark)
 
