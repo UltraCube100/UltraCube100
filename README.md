@@ -25,4 +25,4 @@ WIP. Work in progress
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=UltraCube100&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h6>Skyblock addons mod</h6>
+
