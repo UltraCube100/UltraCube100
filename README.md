@@ -21,6 +21,8 @@ WIP. Work in progress
 ### My GitHub Stats
 
 ![UltrCube100's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltraCube100&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraCube100&langs_count=10&layout=compact&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=UltraCube100)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
