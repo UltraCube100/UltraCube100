@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello!
-## Welcome to my profile!
-### About me
-WIP. Work in progress
-
-### My GitHub Stats
+# Welcome to my profile!
+![](https://komarev.com/ghpvc/?username=ultracube100&color=brightgreen)
+# My GitHub Stats
 
 ![UltrCube100's GitHub stats](https://github-readme-stats.vercel.app/api?username=UltraCube100&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UltraCube100&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=UltraCube100&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
