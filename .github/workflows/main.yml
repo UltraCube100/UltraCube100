@@ -1,2 +1,2 @@
-name: GitHubSVGImage
-  - uses: lowlighter/metrics@v3.7
+- name: GitHub metrics as SVG image
+  uses: lowlighter/metrics@v3.7
